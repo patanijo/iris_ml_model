@@ -37,8 +37,7 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://github.build.ge.com/FleetServicesOfflineAnalytics/sample_offline_template">cookiecutter data science project template</a>.</p>
-
+<p><small>Project based on the <a target="_blank" href="https://github.build.ge.com/JupyterdayATL/sample_offline_template">cookiecutter data science project template</a>.</p> 
 Set up
 ------------
 

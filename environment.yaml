@@ -1,0 +1,7 @@
+name: iris_ml_model
+dependencies:
+  - python=3.6
+  - jupyter
+  - pandas
+  - matplotlib
+  - scikit-learn

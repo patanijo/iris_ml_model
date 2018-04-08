@@ -5,7 +5,7 @@ Project Description: Build a machine learning model using scikit-learn for Jupyt
 
 Author: John Patanian
 
-e-mail: john.patanian@ge.com
+e-mail: patanj2@gmail.com
 
 Project Organization
 ------------
